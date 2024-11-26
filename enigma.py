@@ -11,3 +11,5 @@ keylist["D"] = randomnum[3,]
 
 date = date.today
 offset = date.strftime("%d%m%Y")
+
+print(offset)
