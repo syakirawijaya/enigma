@@ -1,3 +1,9 @@
+"""
+CSC 450: Computer Security
+Enigma Encryption Algorithm
+Author: Syakira Wijaya, Nyan Lin Zaw
+"""
+
 import random
 from datetime import date
 
